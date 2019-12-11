@@ -29,5 +29,10 @@ run the following:
 python merge_csv.py -o OUTPUT_FILE_NAME.csv -p PHASE -v VISCODE.
 ~~~
 
-Note: VISCODE and VISCODE are not the same. VISCODE is cohort specific and gets initialized with the initialization of a new ADNI project.
+Note1: VISCODE and VISCODE are not the same. VISCODE is cohort specific and gets initialized with the initialization of a new ADNI project.
 merge_csv.py is using VISCODE (not VISCODE2). This i fine as loong as the datasets merged will be done only for one ADNI phase (e.g ADNI1)
+
+Note2: To see the list of options:
+ ~~~
+python merge_csv.py --help
+  ~~~ 
