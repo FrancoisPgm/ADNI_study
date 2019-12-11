@@ -7,8 +7,8 @@ TO properly merge csv files from ADNI, one must combine different csv files whil
 This code will help you achieve that for each ADNI phase at the time point you want and can be easily modified for different csv files and variables
 
 - [Dependencies](#dependencies)
-- [Dataset structure] (#dataset-structure)
-- [How to run] (#how-to-run)
+- [Dataset structure](#dataset-structure)
+- [How to run](#how-to-run)
 
 ## Dependencies
 
