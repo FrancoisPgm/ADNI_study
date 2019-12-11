@@ -26,7 +26,7 @@ cd ADNI_study-master
 ~~~
 run the following:
 ~~~
-python merge_csv.py -o OUTPUT_FILE_NAME.csv -p PHASE -v VISCODE.
+python merge_csv.py -o OUTPUT_FILE_NAME.csv -p PHASE -v VISCODE input_dir
 ~~~
 
 Note1: VISCODE and VISCODE are not the same. VISCODE is cohort specific and gets initialized with the initialization of a new ADNI project.
